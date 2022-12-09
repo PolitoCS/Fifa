@@ -1,0 +1,29 @@
+h1 {
+   font-style: italic;
+    color:orange;
+}
+
+p{
+font-style:italic;
+color: powderblue;
+}
+#space {
+    background-image: url("space.jpeg");
+
+}
+
+ul{
+  color: orangered;  
+}
+
+a {
+    color: palegreen;
+}
+.polito{
+    font-style: italic;
+    font-weight: bold;
+    color: burlywood;
+    background-image: url("wallpaper.jpeg")
+}
+
+
